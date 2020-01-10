@@ -1,5 +1,13 @@
 # Monopoly
 
+A graphical object-oriented game of Monopoly
+
+General info
+
+This Java project was an assignment I co-created for a lower division computing programing course where I was a teacher's assistant.
+
+Project Description and Instructions
+
 Implement the game of monopoly using object-oriented programming techniques and Java. At a minimum, your solutions should have the classes: Square, Tax, BuyableSquare, Property, Utility, Railroad, Person, Player, GamePiece, Card, Monopoly, and a class with a main method. It is up to you to figure out what should go in each of the classes and their relationship with one another. NOT all monopoly rules will be implemented or are original. DO NOT upload all the classes in one java file. Avoid duplicate code. Comment your methods with a small description (no need for input/output comments). Comment anything you think might be confusing to the reader. 
 
 Implement however you wish as long as you meet the requirements noted on this document. 
